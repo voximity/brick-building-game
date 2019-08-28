@@ -1,0 +1,1 @@
+-- I will not be including this source as I still use this chat and am modifying it constantly.
